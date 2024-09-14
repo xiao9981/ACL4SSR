@@ -1,0 +1,10 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain_regex": [
+        "^dl-a10b-\d\d\d\d+\.mypikpak\.com$"
+      ]
+    }
+  ]
+}
